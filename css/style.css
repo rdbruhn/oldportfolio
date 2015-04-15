@@ -22,6 +22,11 @@ body {
 }
 
 
+.text-thin {
+	font-weight: 100;
+}
+
+
 .sub-margin {
 	margin-top: 0.3em;
 	margin-bottom: 0;
@@ -33,8 +38,8 @@ body {
 }
 
 
-.text-thin {
-	font-weight: 100;
+.text-alt-color {
+	color: #2eb82e;
 }
 
 /* Content */
@@ -50,11 +55,6 @@ hr {
 
 .feat-margin {
 	margin-top: 0em; 
-}
-
-
-.text-muted {
-	color: #bcbbbb;
 }
 
 
