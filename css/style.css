@@ -1,39 +1,45 @@
-body{
+body {
 	font-family: 'Lato', sans-serif;
-	color: ##0000FF;
-	font-family: 300;
+	color: #0000ff;
+	font-weight: 300;
 }
 
-.title-logo{
+/* Header */
+
+.title-logo {
 	margin-top: 20px;
 }
 
-.title-margin{
-	margin-top: .7em;
-	margin-bottom: 0em
-}
-.title-super{
-	font-size: 4em;
-}
 
-.sub-margin{
-	margin-top: .3em;
+.title-margin {
+	margin-top: 0.7em;
 	margin-bottom: 0;
 }
 
-.sub-text{
+
+.title-super {
+	font-size: 4em;
+}
+
+
+.sub-margin {
+	margin-top: 0.3em;
+	margin-bottom: 0;
+}
+
+
+.sub-text {
 	font-size: 1.3em;
 }
 
-.text-thin{
+
+.text-thin {
 	font-weight: 100;
 }
 
-.text-muted{
-	color: #BCBBBB;
-}
+/* Content */
 
-hr{
+hr {
 	background-color: #bcbbbb;
 	border-width: 4px 0px 0px;
 	border-top-width: 4px;
@@ -41,15 +47,23 @@ hr{
 	margin-bottom: 1.9em;
 }
 
-.feat-margin{
+
+.feat-margin {
 	margin-top: 0em; 
 }
 
-.work-margin{
-	margin-top: .4em;
+
+.text-muted {
+	color: #bcbbbb;
 }
 
-.proj-big{
+
+.work-margin {
+	margin-top: 0.4em;
+}
+
+
+.proj-big {
 	font-size: 2em;
 }
 
