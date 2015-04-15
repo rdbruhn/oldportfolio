@@ -1,0 +1,55 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: ##0000FF;
+	font-family: 300;
+}
+
+.title-logo{
+	margin-top: 20px;
+}
+
+.title-margin{
+	margin-top: .7em;
+	margin-bottom: 0em
+}
+.title-super{
+	font-size: 4em;
+}
+
+.sub-margin{
+	margin-top: .3em;
+	margin-bottom: 0;
+}
+
+.sub-text{
+	font-size: 1.3em;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+
+hr{
+	background-color: #bcbbbb;
+	border-width: 4px 0px 0px;
+	border-top-width: 4px;
+	margin-top: 1em;
+	margin-bottom: 1.9em;
+}
+
+.feat-margin{
+	margin-top: 0em; 
+}
+
+.work-margin{
+	margin-top: .4em;
+}
+
+.proj-big{
+	font-size: 2em;
+}
+
