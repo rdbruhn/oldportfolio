@@ -53,8 +53,9 @@ hr {
 }
 
 
-.feat-margin {
-	margin-top: 0em; 
+.caption {
+	color: white;
+	font-size: 2em;
 }
 
 
@@ -65,5 +66,10 @@ hr {
 
 .proj-big {
 	font-size: 2em;
+}
+
+
+.mail-btn {
+	margin-top: 1em;
 }
 
